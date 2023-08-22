@@ -5,7 +5,7 @@ document.getElementById('btn-sub').addEventListener('click', function(){
     const passwordField = document.getElementById('user-pass');
     const password = passwordField.value;
 
-    if(email === 'rifat10@gmail.com' && password === 'rifat'){
+    if(email === 'Nasimrifat10@gmail.com' && password === 'Rifat@027744654'){
         window.location.href = 'js/Bank.html'
     }
 
